@@ -6,7 +6,7 @@ Live URL: https://m-maha21.github.io/horiseon-code-refactor-challenge/
 N/A
 ## Usage
 Ensured HTML elements follow a logical structure, provided accessible alt attributes for images, ensured heading attributes fall in sequential order for improved navigation and crafted title elements that are concise and descriptive.
-![alt text](images/Screenshot2024-01-31 at 13.25.05.png)
+![alt text](assets/images/Screenshot%202024-01-31%20at%2013.25.05.png) 
 ## Credits
 N/A
 ## License
